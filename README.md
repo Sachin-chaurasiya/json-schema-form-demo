@@ -22,3 +22,4 @@ yarn install
 ```shell
 yarn run dev
 ```
+> Not accepting PRs
